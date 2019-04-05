@@ -1,1 +1,1 @@
-# noself
+INI PAKE PYTHON3 YAAA
